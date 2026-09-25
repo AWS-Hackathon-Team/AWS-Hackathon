@@ -1,3 +1,5 @@
-﻿dataset/
+﻿dataset/*
+!dataset/test/
+!dataset/test/**
 .DS_Store
 .ipynb_checkpoints/
