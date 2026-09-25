@@ -1,5 +1,8 @@
 ﻿dataset/*
 !dataset/test/
 !dataset/test/**
+!dataset/train/
+!dataset/train/*.tsv
+
 .DS_Store
 .ipynb_checkpoints/
